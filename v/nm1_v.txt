@@ -1,0 +1,310 @@
+﻿https://www.facebook.com/groups/elteikbsc/permalink/1001703109925666/
+
+160601
+beugró: 2 22 31 49 68 -> 68as talán 4 vagy 5 pontért, ami meglepő volt de jól jött
+tételek: 8 17 13
+
+siman bedobjak tobbszor ugyanazt..
+1-2 tetel van ami nem jellemzo hogy kerdeznek (de ez se kobe vesett)
+a tobbi viszont tok veletlenszeru
+
+jobban kérdezik 8tól felfelé
+de azért 8 alatt is szokott lenni...
+1es és 19es szinte sosincs, a 2es is ritkán volt az utobbi években
+[beugró] a 75ből bármelyik lehet
+
+******************************************
+
+https://www.facebook.com/groups/elteikbsc/permalink/1007220379373939/
+
+160608
+beugró: 2 7 15 55 62
+tételek: 5 20 12
+
+******************************************
+
+https://www.facebook.com/groups/elteikbsc/permalink/1010760925686551/
+
+160615
+Mai A csoport beugró kérdései:
+1.) Definiálja az f függvény a pontbeli kondíciószámát! (2p)
+2.) Adja meg azt a Householder mátrixot, melyre azonos hosszúságú a =/= b vektorok esetén Ha=b. (2p)
+3.) Írja le az 1, 2, végtelen és Frobenius mátrixnormát! (4p)
+4.) Írja le a LER mátrixának változásakor érvényes perturbációs tételt! (4p)
+5.) Vezesse le a Newton-módszer képletét! (3p)
+Tételek (ülésrend: első sor 3 ember, második 2 ember és így tovább):
+3 emberes sorok tételei: 14 12 18
+2 emberes sorok tételei: 20 11
+
+https://www.facebook.com/groups/elteikbsc/permalink/1010817909014186/
+
+B csoport beugró:
+1) inputfüggvény, hibája és ebből a következmény
+2) Schur-komplementer
+3) Householder mtx
+4) Gauss-Seidel relaxációs képlete koordinátás alakkal
+5) m-edrendű konvergenciáról szóló tétel
+
+******************************************
+
+https://www.facebook.com/groups/elteikbsc/permalink/1015098381919472/
+
+160622
+tételek: 15, 9, 20, 7
+
+https://www.facebook.com/groups/ELTE.IK.TKK/permalink/1115276631829855/
+
+160125
+tételek: 10 - 4 - 17 - 8
+
+https://www.facebook.com/groups/ELTE.IK.TKK/permalink/1116410445049807/
+
+160127
+tételek: első fele 9, 14, 17, 7, 20; második fele 8, 14, 12, 18, 10
+
+https://www.facebook.com/groups/ELTE.IK.TKK/permalink/1393077650716417/
+
+161221
+tételek: 5, 8, 13, és még egy amire nem emlékszem már.
+
+https://www.facebook.com/groups/1511860759110337/permalink/1634592240170521/
+https://www.facebook.com/groups/1511860759110337/permalink/1637114529918292/
+
+170102
+tételek: 7, illetve 17
+
+https://www.facebook.com/groups/1511860759110337/permalink/1635600583403020/
+
+170104
+tételek: 4, 9, 12, 14
+
+https://www.facebook.com/groups/1511860759110337/permalink/1637504526545959/
+
+170109 A
+tételek: 20, 12, 15, 16, 6, 18, 5, 2, 8
+
+https://www.facebook.com/groups/1511860759110337/permalink/1638325346463877/
+
+170111
+tételek: első 17,18,10,14,11; második 8 13 16 20 7
+
+https://www.facebook.com/groups/1511860759110337/permalink/1640567019573043/
+https://www.facebook.com/groups/1511860759110337/permalink/1640741846222227/
+
+170116
+tételek: első 1,8,15,18,20 második 1, 14, 3, 10, 17
+Am ez fura, mert az első tételt még sose kérdezték..
+Fel is háborodott a tanárnő amikor valaki azt is visszaadta.
+
+https://www.facebook.com/groups/1511860759110337/permalink/1641458726150539/
+
+170118
+tételek: 9 15 11 3 5 valami, 16 volt talán az utolsó hiányzó
+
+https://www.facebook.com/groups/1511860759110337/permalink/1643949972568081/
+
+170123
+tételek: 5 7 14 12
+
+https://www.facebook.com/groups/1511860759110337/permalink/1647610342202044/
+https://www.facebook.com/groups/1511860759110337/permalink/1647607398869005/
+
+170130
+tételek: első 20, 4, 17, 11, 14, 8 második 10,6,15,17 biztos volt es azthiszem h 9 de nem emlekszem pontosan; 3,9
+
+https://www.facebook.com/groups/1511860759110337/permalink/1694849764144768/
+
+170531
+tételek: 2, 13, 8
+
+https://www.facebook.com/groups/1511860759110337/permalink/1699317820364629/
+
+170612
+tételek: ?
+
+https://www.facebook.com/groups/1511860759110337/permalink/1702769846686093/
+
+170621
+tételek: 7,20, 17, és 4.et nem jegyeztem meg; 9, ha jól rémlik
+
+https://www.facebook.com/groups/1511860759110337/permalink/1704589146504163/
+
+170626
+Beugró kérdések (B csoportnak) : 21, 36, 43, 58, 73
+Tételek: 6, 13, 15
+
+https://www.facebook.com/groups/1511860759110337/permalink/1705473013082443/
+
+170628
+beugró: ?
+tételek: 18,12 tuti; 8 meg 15 volt még azt hiszem
+
+https://www.facebook.com/groups/1511860759110337/permalink/1770203113276099/
+
+180103
+beugró: ?
+tételek: 8 12 16
+
+https://www.facebook.com/groups/1511860759110337/permalink/1772299249733152/
+https://www.facebook.com/groups/1511860759110337/permalink/1772165503079860/
+
+180108
+tételek: 17 tuti. Egyébként 7-9-13-ra emlékszem még-esetleg- talán-nem biztos-aszem- lehet-szerintem; 12*
+
+https://www.facebook.com/groups/1511860759110337/permalink/1774596709503406/
+
+180115
+tételek:
+Első csapat: 6,9,11,19
+Második: 5,10,13,15
+Elso csapatnak a 18 volt nem a 19
+
+https://www.facebook.com/groups/1511860759110337/permalink/1775302002766210/
+https://www.facebook.com/groups/1511860759110337/permalink/1775321766097567/
+
+180117
+tételek: 12, 11, 4, 15, 19, 8
+
+https://www.facebook.com/groups/1511860759110337/permalink/1777272355902508/
+
+180122
+tételek: első 14,7,2,19 második ?
+
+https://www.facebook.com/groups/1511860759110337/permalink/1778125039150573/
+https://www.facebook.com/groups/1511860759110337/permalink/1778139645815779/
+
+180124
+tételek: 10 15 17 9 || 12 <3 19 8 7
+7,8,9,10,12,15,17,19
+
+https://www.facebook.com/groups/1511860759110337/permalink/1780024618960615/
+
+180129
+tételek:
+második turnus 11, 13, 16, 17 az ötödikre nem emlékszem
+elsőben 8, 10 16 másik kettőre nem emlékszem
+18-as volt a 4.
+első turnusban 8 12 10 18 16 volt.
+tl dr erősen ajánlott a 8adik tétel utániakat tudni
+
+beugró: A másik csoport szerintem talán még könnyebb is volt, de a kérdésekre már pontosan nem emlékszem talán hibabecslés meg HH volt
+
+https://www.facebook.com/groups/1511860759110337/permalink/1780689762227434/
+
+180131
+tételek: ?
+
+https://www.facebook.com/groups/elteikbsc/permalink/916420265120618/
+https://www.facebook.com/groups/elteikbsc/permalink/916890198406958/
+
+160118
+beugró: ?
+tételek: 18 8 12 5 (nem emlékszem); 14. volt az utolsó
+ma a 2, 15, 20 volt meg még valami nem emlékszem
+
+https://www.facebook.com/groups/elteikbsc/permalink/1018215601607750/
+
+160627
+beugró:
+alapműveletek abszolult hibaérték (3),
+LU felbontás létezése GE nélkül (3)
+A mx profil(2),
+húr módszer (2),
+newtonmódszer konvergencia tétele (5)
+tételek: 16, 8, 10, 18
+
+https://www.facebook.com/groups/ELTE.IK.TKK/permalink/1112727115418140/
+
+160120
+beugró: A -> Ugyan ez volt egy héttel korábban is
+tételek:
+A 2. vizsgamenetben a 12(?) 7 10 17 tételek voltak
+Az 1.-ben 9(?) ? 2 15 volt
+Az elso csoportban a masodik a 20-as volt. A masodik csoportban az elso pedig 13-as.
+
+
+******************************************
+
+https://www.facebook.com/groups/elteikbsc/permalink/908743179221660/
+
+15161 1. vizsga
+beugró: 7. 11. 43. 54. 65. Az utolsóban nem vagyok biztos.
+tételek: 8, 15, 13, 7
+
+160104
+beugró:
+1. Nevezetes gépi számok (3 pont)
+2. MIlyen tételt tanult a Choleksy-felbontásról? (3 pont)
+3. Írja le az indukált mátrixnormáról tanult tételt! (2 pont)
+4. Írja le a Newton-módszer monoton konvergencia tételét. (5 pont)
+5. Írja le a Gauss-Seidel iterációt és annak koordinátás alakját. (2 pont)
+tételek: 16. 4. 11. és 20.
+
+https://www.facebook.com/groups/1511860759110337/permalink/1772969139666163/
+
+180110 A
+9. Definiálja az f függvény „a” pontbeli kondíciószámát! 2p. 
+28. Adja meg azt a Householder mátrixot, melyre az azonos hosszúságú a ≠ b vektorok esetén H a = b . 2p
+33. Írja le az 1,2, ∞ és Frobenius mátrixnormát! 4p. 
+37. Írja le a LER mátrixának változásakor érvényes perturbációs tételt! 4p. 
+67. Vezesse le a Newton-módszer képletét! 3p.
+Tételek:(asszem) 1,5,7,12,19,?
+nekem a 4es remlik, hogy volt meg
+plusz a 13,14 is
+
+******************************************
+
+https://www.facebook.com/groups/1511860759110337/permalink/1778174465812297/
+GYŐRI GYŰJTEMÉNYE
+
+******************************************
+
+https://www.facebook.com/groups/elteikbsc/permalink/1004426732986637/
+
+- Tavaly volt a 19es amúgy 1szer majdnem biztos vagyok benne, de ott elvileg nincs bizonyitás csak 3 tétel kimondás.
+
+******************************************
+
+https://www.facebook.com/groups/elteikbsc/permalink/1004107159685261/
+https://www.facebook.com/groups/elteikbsc/permalink/908743179221660/
+
+Krebsz Anna:
+- elég sokat foglalkozott a nála vizsgázókkal [Zsolt Bölöny]
+- hogy ha látszik, hogy nem megy akkor is megpróbálja belőled kihúzni a 2-est, sokhelyen rávezetve a megoldásra. [Rózsa Dávid]
+- pozitív tapasztalatom van, érdemes hozzá jelentkezni ha lehetséges... [Máté Mészáros]
+- Krebsz Tanárnőről annyit hallottam, hogy nála több lány megy át mint fiú. Ez igaz vagy csak szóbeszéd? [Nedeczey Mira]
+- Van aki gyakorlatilag levizsgázik helyetted [Hegedűs Péter] És egyébként Krebsz inkább az első kategória. [Lajkó Gábor]
+- jobban feltem tole,mint amilyen volt, nagyon kedves, szinte szadba adja a szavakat, annyira ra akar vezetni. (de ehhez mondjuk azert nem eppenhogytudokvalamit szinttel kell odamenni, nekem a nm2-nel krebsz kerdezgetett a vegen, valamit nem tudtam, egyszeruen total leblokkolt az agyam, ravezetett egy peldafeladattal, es vegul otost adott.) nem kell annyira rettegni, de nem art tisztaban lenni azzal,hogy mi miert van ugy es nem "szorol szora" bevagni az egeszet. Mert akkor hiaba probalnak ravezetni,hogyha fogalmad sincs a dolgok egymashoz valo viszonyarol,hogy mi miert van ugy. [Palkovics Beáta]
+- aki teheti menjen krebszhez [Borbély Bálint]
+
+Fábián Gábor:
+- meglepően jó fej volt [Zsolt Bölöny]
+- nagyon laza volt [Palkovics Beáta]
+- atrugdosott a kozepesen stabil tudasommal [Ákos Kemenes]
+- tapasztalatból tudom, hogy rendes [Richárd Szappanos]
+
+Kovács Péter:
+- a nummodosok közül egyedül Kovács Péterrel kell vigyázni [Dia Varga]
+- velem felíratta, hogy a Jacobi-iteráció dolgozik egy vektoron, nem a Gauss-Seidel. Még próbáltam is mondani, hogy EA-n volt, hogy a GS-iteráció az, ami egy vektoron dolgozik mert tud szépen ciklikusan haladni. Felíratta velem a koordinátás alakot, amit felírtam TELJESEN rosszul. Bebizonyítottuk ketten, hogy a Jacobi-iteráció halad 1 vektoron (nem kell segédvektorban tárolni a korábbi iteráció TELJES eredményét), majd megkaptam a négyest. (Hármas és négyes között álltam, amiatt jött többek között ez a kérdés.) [Richárd Szalay]
+- korrekt volt, megkaptam a kis kettesemet, szóval ajánlhatom [Tamás László]
+
+Németh Zsolt:
+- ő róla is sok jót hallani [Nedeczey Mira]
+- próbáljátok odahívni mindenképp,ha sikerül. Nála jóindulatúbb tanár egészen biztos h nincs az egész egyetemen. [Kardos Attila]
+- kábé többet filozofálgattunk linalgról, meg hogy nem így kéne leoktatni az adott tételt, mert van jobb megközelítése is (nem emlékszem, mi volt), mint hogy magáról a tételről kérdezett volna. [Máté Lanka]
+
+Lócsi Levente:
+- tapasztalatból tudom, hogy rendes [Richárd Szappanos]
+
+Gergó Lajos:
+- nagyon rendes volt [Péter Tóth]
+- Nem tudom ki volt egy idősebb alak de ha ezután látom messziről el fogom kerülni. [...] szerintem egy-két dolgot nem tudott a tételből ezért olyan dolgokba kötött bele amit ő tudott és semmi köze nem volt a tetelhez és úgy tette fel a kérdéseket, hogy tudtam rá a válaszokat, de nem értettem mit akar szoval ne menj hozzá ha nem muszáj. [Péter Faludi]
+
+Bognár Gergő:
+- egyik legjobb arc volt a félévben, szerintem vizsgán is az [Péter Marjai]
+
+IDK: Kovács Péter, Gergó Lajos
+- 
+
+https://www.facebook.com/groups/1511860759110337/permalink/1656813071281771/
+fuckit nincs kedvem most elolvasni
